@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.charley.assigntwo.MainActivity">
+    <item
+        android:id="@+id/addSub"
+        android:orderInCategory="100"
+        android:title="@string/add_sub"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/rand"
+        android:orderInCategory="101"
+        android:title="@string/rand"
+        app:showAsAction="ifRoom" />
+</menu>

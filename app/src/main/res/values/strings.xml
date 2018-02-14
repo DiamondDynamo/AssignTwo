@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AssignTwo</string>
+    <string name="action_settings">Settings</string>
+    <string name="random">Random Number</string>
+    <string name="bttnAdd">Add</string>
+    <string name="bttnSub">Subtract</string>
+    <string name="bttnRnd">Random</string>
+    <string name="countTot">0</string>
+    <string name="randNum"></string>
+    <string name="add_sub">Counter</string>
+    <string name="rand">Random Generator</string>
+</resources>
